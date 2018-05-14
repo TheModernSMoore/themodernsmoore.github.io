@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"animationId":111,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":104,"name":"Pistol","note":"","params":[0,0,10,0,0,0,0,0],"price":350,"wtypeId":9},
+{"id":2,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":3,"animationId":21,"description":"Don't call shotgun.  Trust me, you'll get shot. with a gun.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":115,"name":"Shotgun","note":"","params":[0,0,50,0,0,0,5,0],"price":500,"wtypeId":9}
+]
