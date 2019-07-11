@@ -1,8 +1,0 @@
-[
-null,
-{"id":1,"animationId":41,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"100","type":3,"variance":20},"description":"","effects":[],"hitType":0,"iconIndex":176,"itypeId":1,"name":"Medicine","note":"","occasion":0,"price":25,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-{"id":2,"animationId":45,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"100","type":3,"variance":20},"description":"","effects":[],"hitType":0,"iconIndex":178,"itypeId":1,"name":"Blood","note":"","occasion":0,"price":50,"repeats":1,"scope":9,"speed":0,"successRate":100,"tpGain":0},
-{"id":3,"animationId":69,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"a.atk * 6 - b.def * 2","type":1,"variance":20},"description":"","effects":[],"hitType":0,"iconIndex":161,"itypeId":1,"name":"Bomb","note":"","occasion":1,"price":100,"repeats":1,"scope":2,"speed":0,"successRate":100,"tpGain":0},
-{"id":4,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"200","type":4,"variance":20},"description":"","effects":[],"hitType":0,"iconIndex":160,"itypeId":1,"name":"Ammo","note":"","occasion":0,"price":50,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-{"id":5,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"For Mary.","effects":[],"hitType":0,"iconIndex":84,"itypeId":2,"name":"Teddy Bear","note":"","occasion":0,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0}
-]
