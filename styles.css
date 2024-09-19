@@ -7,18 +7,19 @@
 }
 
 body {
-    background-color: var(--brown);
+    background-color: var(--blue);
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h1.top, h3.top {
-    color: var(--yellow);
+    color: var(--green);
     max-width: fit-content;
     margin-left: auto;
     margin-right: auto;
 }
 
 h1, h2, p, ul {
+    color: var(--green);
     max-width: fit-content;
     margin-left: auto;
     margin-right: auto;
@@ -39,7 +40,7 @@ div.banner {
     padding-bottom: 1px;
     width: 100%;
     height: auto;
-    background-color: var(--green);
+    background-color: white;
     background-position: center;
 }
 
@@ -47,16 +48,16 @@ div.content {
     padding-top: 1px;
     width: 100%;
     height: auto;
-    background-color: var(--blue);
+    background-color: white;
     background-position: center;
 }
 
 a.button {
-    padding: 15px 100px;
-    border: 1px outset buttonborder;
+    padding: 10px 75px;
+    border: 3px outset buttonborder;
     border-radius: 3px;
     color: buttontext;
-    background-color: var(--pink);
+    background-color: var(--yellow);
     text-decoration: none;
 }
 
