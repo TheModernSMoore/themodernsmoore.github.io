@@ -21,8 +21,9 @@ h1.top, h3.top {
 h1, h2, p, ul {
     color: var(--green);
     max-width: fit-content;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
 }
 
 li {
